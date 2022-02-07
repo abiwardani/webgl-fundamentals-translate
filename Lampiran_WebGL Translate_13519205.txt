@@ -1,0 +1,5 @@
+Source Code
+Source code dapat diakses di repository github pada link https://github.com/abiwardani/webgl-fundamentals-translate
+
+Video
+Video singkat penjelasan “Translate” dapat ditonton pada link YouTube https://www.youtube.com/watch?v=6G0wtPD7_vk
